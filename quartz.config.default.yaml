@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: For Ania
+  pageTitle: Body Health, Concerns, and Possible Cures
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
