@@ -1,12 +1,5 @@
 ---
-title: Home
+title: Hi
 ---
 
-# Welcome
-
-This is my Obsidian website.
-
-## Notes
-
-- [[About]]
-- [[Projects]]
+#This page is dedicated to explaining human bodily symptoms, sources of causes, and/or possible cures.
