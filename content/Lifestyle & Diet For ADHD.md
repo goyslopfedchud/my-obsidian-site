@@ -1,5 +1,5 @@
 ## What may worsen symptoms
-	- Excessive digital entertainment and scorlling
+	- Excessive digital entertainment and scrolling
 	- Alcohol (limit to one drink per session)
 	- Gluten, sugar, and processed foods
 	- Nutrient deficiencies
@@ -17,3 +17,8 @@
 ## Additional info
 	- Excessive entertainment on screen like netflix and video games can tank your attention span and motivation, same with alcohol
 	- Diet, going sugar free is a good start
+	- Gluten may cause forgetfulness and more executive mistakes, negatively affecting motor functions: this is all without gluten intolerance or celiac
+	- With sugar, it seems to cause mood swings and hyperactivity, mimicking stimulant comedowns
+	- It might be easier to start with eliminating sugar to build food discipline, than just outright going keto or paleo and sugar withdrawal can be harsh
+	- For diet related matters (PMID 21296237)
+	- Immunizations (Corpus ID: 281326179)

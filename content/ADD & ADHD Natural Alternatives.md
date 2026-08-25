@@ -3,7 +3,7 @@
 	- Zinc 5 - 15 mg, if it cause irritability then take with molybdenum 100 - 250 mg
 	- Ginseng
 	- L-Tyrosine 250 - 1,000 mg, take occasionally, or you might develop tolerance
-	- NADH 2.5 - 5 mg, may causeu overstimulation
+	- NADH 2.5 - 5 mg, may cause overstimulation
 ## Impulse control
 	- NAC 500 - 1,500 mg, may cause anxiety or anhedonia
 	- Lithium
@@ -33,9 +33,9 @@
 
 ## Additional info
 	- Low motivation is you don't feel like doing it, lack of initiative, exhaustion, burnout, or lack of sleep
-	- Low impluse control: Intend to not eat junk food for a week and then few hours later change of mind, you might frequently interrupt people during conversation
+	- Low impulse control: Intend to not eat junk food for a week and then few hours later change of mind, you might frequently interrupt people during conversation
 	- Hyper activity looks like fidgeting, moving around a lot, constantly needing stimulation 
 	- Lack of focus could be needing to read the same page few times
 	- Brain fog could be the cognition section, difficulty remembering words, doing simple math calculation
-	- Mood swings,mood elevation: you might set a goal to eat better and fix your sleep, fix your habits but when you have a depressive crash, that seems unattainable 
-	- With supplements and meds you can override lack of discipline and self control- easy as popping pills
+	- Mood swings, mood elevation: you might set a goal to eat better and fix your sleep, fix your habits but when you have a depressive crash, that seems unattainable 
+	- With supplements and meds you can override lack of discipline and self control- Easy as popping pills

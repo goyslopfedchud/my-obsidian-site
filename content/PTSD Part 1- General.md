@@ -1,5 +1,6 @@
+
 ## What to avoid in general
-	- alcohol, benzos(benzodiazephine), frequent cannabis use 
+	- Alcohol, benzos (benzodiazephine), frequent cannabis use 
 	- Excessive caffeine, stimulant use
 	- Antipsychotics as sleep aids
 	- Unhealthy diet / standard american diet
@@ -18,4 +19,12 @@
 	- Therapy, meditation, yoga exercise and rest
 	- This list is an attempt at giving your body the conditions and raw materials so the autonomic nervous system has the chance to recover
 	- Hard to get people with PTSD to try diet or supplements, sense of skepticism presents
-	- PTSD has a broad spectrum of pathways- the reason of not a single reliable medication for it
+	- PTSD has a broad spectrum of pathways- The reason of not a single reliable medication for it
+	- PTSD is biologically complex- It often triggers other dormant issues, like what we see with post viral fatigue
+	- Therapies and practices to consider:
+	- Meditation
+	- Toga
+	- Light exercise routine
+	- Being with animals
+	- EDMR
+	- Do one supplement at a time, none of them are universally applicable to all causes of PTSD. Vitamin B1 should be started slowly as it can cause anger and anxiety initially

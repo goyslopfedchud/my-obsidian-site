@@ -16,10 +16,12 @@
 ## What might help
 	- Molybdenum 250 mcg (anger, anxiety, migraine, fatigue, cold hands, nausea, greasy brittle hair, maybe insomnia)
 	- Magnesium (leg cramps, muscle twitching, chest anxiety / papitations, chocolate craving)
-	- zinc 5 - 15 mg (depression, sadness, low libiddo, runny nose, lower back pain, lower stomach pain)
+	- Zinc 5 - 15 mg (depression, sadness, low libido, runny nose, lower back pain, lower stomach pain)
 	- Vitamin B6 5 mg (restless, sugar & carb craving, night sweats, poor dream recall, depression, floating stool)
 	- Calcium D-Glucarate
 	- DIM (Diindolymethane)
 ## Additional info
 	- Iron and copper have inverse relationship
 	- These symptoms look similar to excess copper, which raises estrogen
+	- Don't take iron to balance out the copper, irons pills are against recommendation regardless of ferritin status
+	- Men can get estrogen dominance too, just not as common

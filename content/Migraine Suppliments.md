@@ -18,4 +18,5 @@
 	- Medication: try triptans, dihydroergotamine, and CGRP antagonist(calcitonin gene related peptide antagonist)
 	- Those supplements are meant to address migraines from all angles
 	- If all else fails, medication or prayer to deactivate the serotonin 2A receptor, thus reducing the risk for migraines 
-	- No hallucinogens-- nuclear protocol and not recommended
+	- No hallucinogens-- Nuclear protocol and not recommended
+	- The supplements and meds may not fix migraines if you continue eating moldy cheese, canned fish, and drinking red wine

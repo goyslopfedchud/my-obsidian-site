@@ -16,3 +16,7 @@
 	- Sleep issues, tiredness, brain fog, possible neuropathy
 	- Look at serotonin 1A receptor, likely desensitized and serotonin 2A receptor, more so overactive
 	- Go slow with the supplements, one at a time, and if you crash a lot then stick to lifestyle changes 
+	- SSRI & SNRI has been known to cause sexual dysfunction and discontinuation syndrome
+	- If you're sensitive, then be careful with the supplements
+	- There a phenomenon called "crashing" where certain supplements or meds can worsen the symptoms for certain amount of days or weeks
+	- Be sure to research the side effects of each supplements before taking them, and consult with your doctor first

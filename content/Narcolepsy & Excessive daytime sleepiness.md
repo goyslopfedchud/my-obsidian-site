@@ -15,6 +15,7 @@
 ## Additional info
 	- Hypersomnia: inflammation of the hypothalamus
 	- Check the side effects of the supplements first
-	- Hypersomnia: vivid and scary dreams, anxiety, excessive appetite, and binge eating -- sounds like low biotin 
+	- Hypersomnia: vivid and scary dreams, anxiety, excessive appetite, and binge eating- Sounds like low biotin
 	- Vitamin B1 most helpful
 	- Diet recommended because of long term orexin neural loss concerns
+	- Overnight polygraph sleep test and sleep latency test, maybe spinal and genetic test: you'll really have to push for these, and it's very hard to find willing doctors to refer you to specialists

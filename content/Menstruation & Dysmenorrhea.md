@@ -18,3 +18,7 @@
 	- Not for premenstrual syndrome that goes away after your period actually starts, menstruations and PMS are two different events
 	- Most of things in the list is to reduce the pain, a lot of them lowering prostaglandin, which might be efficient for fatigue
 	- Too much ginseng can make the bleeding worse, although it's good for the fatigue: only do it half of serving once a day only during period, since it works right away
+	- 50 - 90 % of women in reproductive age experiences dysmenorrhea
+	- If you get migraines during period, try to cut high histamine foods like cured meats, aged cheese, red wine, and overly ripe avocado and banana, at least from 3 days before menses and if not possible, then make magnesium and zinc a priority
+	- Histamine intolerance is also known to make menstrual pains worse
+	- Thiamine might be helpful for fatigue, ginseng is too, but there's concern for causing heavy bleeding

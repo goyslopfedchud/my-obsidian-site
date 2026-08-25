@@ -1,5 +1,5 @@
 ## General lifestyle changes
-	- Getting more sun, light exercises, reducing streess and workload, avoid junk foods
+	- Getting more sun, light exercises, reducing stress and workload, avoid junk foods
 	- Vitamin B1 50 - 300 mg (for fatigue)
 	- Memantine 5 mg (to reduce craving)
 ## For dental health
@@ -13,4 +13,6 @@
 
 ## Additional info
 	- Side effects: mind numbing, teeth melting
-	- Lower doses can increase relapse rate- do it once sober from hard alcohol or drugs, at least after 3 months of complete withdrawal: cannabis, magic mushrooms, cigarretes are not in the topic of to be concerned
+	- Lower doses can increase relapse rate- Do it once sober from hard alcohol or drugs, at least after 3 months of complete withdrawal: cannabis, magic mushrooms, cigarretes are not in the topic of to be concerned
+	- Below 2 mg, the tapering gets harder because receptor occupancy drops significantly, so you may need to go slower
+	- Below 16 mg, the relapse rate starts to increase, so see if you can change your lifestyle, environment, and friend groups before going below that dose
