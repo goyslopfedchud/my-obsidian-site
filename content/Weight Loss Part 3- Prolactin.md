@@ -20,4 +20,4 @@
 	- Dopamine is a natural antagonist to prolactin, so raising dopamine makes sense in most cases, but 1st & 2nd generation antipsychotics will usually overpower dopamine agonists, so that's where Vitamin E, B6, and zinc might be useful- You may also need to control the blood glucose
 	- Vitamin B6 can eventually become toxic for some people, so biotin 1,000 mcg can be used as a prophylactic
 	- If you decide to go higher on the B6 dose then increase biotin and consider adding Vitamin B5
-	- Prolactin is an important hormone like any other, it has the effect of making yo more nurturing, both for men and women: it helps you eat more during pregnancy
+	- Prolactin is an important hormone like any other, it has the effect of making you more nurturing, both for men and women: it helps you eat more during pregnancy
