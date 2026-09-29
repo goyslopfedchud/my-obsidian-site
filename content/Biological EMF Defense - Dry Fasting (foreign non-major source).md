@@ -1,0 +1,4 @@
+## Information
+	- 6G can cause massive DNA and mitochondrial damage via terahertz waves. But also they can do it with 5G and 4G and the fact that it doesn't ionize doesn't matter - only there to write off. 
+	- Exclusion zone water, or even something as simple as rain, increases wave attenuation and wave attenuation decreases the power of these terahertz waves. So crystalline water is the most powerful defense against the waves. Exclusion zone water is a tiny gel-like substance around all of your cells, that is a crystalline fourth phase of water, which is one of the most powerful biological defenses against these weapons, quite literally. 
+	- The best way to increase exclusion zone within your body is by DRY FASTING. It's the best way to clean your liver, to increase exclusion zone water, to clear the heavy waters out of your system, and quite literally, can be your biological defense against those things
